@@ -1,0 +1,6 @@
+.idea
+venv
+app/__pycache__
+app/Controllers/__pycache__
+app/Models/__pycache__
+app/Views/__pycache__
